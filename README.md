@@ -1,2 +1,2 @@
-# Trabalho da matéria Tópicos Especiais em Programação
-Alunos: Lucas Guimarães Bosio Altoé e Lorenzo Rainha Gomes
+# Trabalho da matéria de Tópicos Especiais em Programação
+Alunos: Lorenzo Rainha Gomes e Lucas Guimarães Bosio Altoé
